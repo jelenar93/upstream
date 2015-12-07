@@ -1,0 +1,4 @@
+name = POWr Count Up Timer
+description = Count up from any time, date, or number.
+package = POWr Modules
+core = 7.x
